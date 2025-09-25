@@ -4,6 +4,7 @@
 /.venv/
 /.env/
 .env
+.artifacts
 
 # Data, Models & Checkpoints
 /data/
